@@ -16,5 +16,8 @@ References for papers that I've read so that I can easily find them again. Not e
 **2019**, Predicting the Generalization Gap in Deep Networks with Margin Distributions [[paper](https://arxiv.org/abs/1810.00113)]
 * Yiding Jiang, Dilip Krishnan, Hossein Mobahi, Samy Bengio,	arXiv:1810.00113 [stat.ML]
 
+**2018**, Learning Linear Transformations for Fast Arbitrary Style Transfer [[paper](https://arxiv.org/abs/1808.04537)]
+* Xueting Li, Sifei Liu, Jan Kautz, Ming-Hsuan Yang, 	arXiv:1808.04537 [cs.CV]
+
 **2016**, All you need is a good init [[paper](https://arxiv.org/abs/1511.06422)] [[unofficial keras-code](https://github.com/ducha-aiki/LSUV-keras)]  [[pytorch-implementation](https://github.com/ducha-aiki/LSUV-pytorch)]
 * Dmytro Mishkin, Jiri Matas, arXiv:1511.06422 [cs.LG]
