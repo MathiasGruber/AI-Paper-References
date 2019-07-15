@@ -15,3 +15,6 @@ Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization [[pap
 # Foundational
 All you need is a good init [[paper](https://arxiv.org/abs/1511.06422)] [[unofficial keras-code](https://github.com/ducha-aiki/LSUV-keras)]  [[pytorch-implementation](https://github.com/ducha-aiki/LSUV-pytorch)]
 * Dmytro Mishkin, Jiri Matas, arXiv:1511.06422 [cs.LG]
+
+Predicting the Generalization Gap in Deep Networks with Margin Distributions [[paper](https://arxiv.org/abs/1810.00113)]
+* Yiding Jiang, Dilip Krishnan, Hossein Mobahi, Samy Bengio,	arXiv:1810.00113 [stat.ML]
