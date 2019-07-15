@@ -10,7 +10,7 @@ All you need is a good init [[paper](https://arxiv.org/abs/1511.06422)] [[unoffi
 
 # Image Generation
 Learning Linear Transformations for Fast Arbitrary Style Transfer [[paper](https://arxiv.org/abs/1808.04537)] [[official pytorch-code](https://github.com/sunshineatnoon/LinearStyleTransfer)]
-Xueting Li, Sifei Liu, Jan Kautz, Ming-Hsuan Yang, arXiv:1808.04537 [cs.CV]
+* Xueting Li, Sifei Liu, Jan Kautz, Ming-Hsuan Yang, arXiv:1808.04537 [cs.CV]
 
 Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization [[paper](https://arxiv.org/abs/1703.06868)] [[official pytorch-code](https://github.com/xunhuang1995/AdaIN-style)]
 * Xun Huang, Serge Belongie, arXiv:1703.06868 [cs.CV]
