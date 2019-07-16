@@ -8,9 +8,6 @@ References for papers that I've read so that I can easily find them again. Not e
 **2018**, Dynamical Isometry and a Mean Field Theory of CNNs: How to Train 10,000-Layer Vanilla Convolutional Neural Networks [[paper](https://arxiv.org/abs/1806.05393)] [[tensorflow-implementation](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/python/ops/init_ops.py)]
 * Lechao Xiao, Yasaman Bahri, Jascha Sohl-Dickstein, Samuel S. Schoenholz, Jeffrey Pennington, 	arXiv:1806.05393 [stat.ML]
 
-**2018**, Learning Linear Transformations for Fast Arbitrary Style Transfer [[paper](https://arxiv.org/abs/1808.04537)] [[summary](https://towardsdatascience.com/finding-good-learning-rate-and-the-one-cycle-policy-7159fe1db5d6)]
-* Xueting Li, Sifei Liu, Jan Kautz, Ming-Hsuan Yang, 	arXiv:1808.04537 [cs.CV]
-
 **2016**, All you need is a good init [[paper](https://arxiv.org/abs/1511.06422)] [[unofficial keras-code](https://github.com/ducha-aiki/LSUV-keras)]  [[pytorch-implementation](https://github.com/ducha-aiki/LSUV-pytorch)]
 * Dmytro Mishkin, Jiri Matas, arXiv:1511.06422 [cs.LG]
 
