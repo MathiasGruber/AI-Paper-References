@@ -39,3 +39,5 @@ References for papers that I've read so that I can easily find them again. Not e
 # Natural Language Processing
 **2019**, XLNet: Generalized Autoregressive Pretraining for Language Understanding [[paper](https://arxiv.org/abs/1906.08237)] [[code](https://github.com/zihangdai/xlnet)] [[keras-implementation](https://github.com/CyberZHG/keras-xlnet)]
 * Zhilin Yang, Zihang Dai, Yiming Yang, Jaime Carbonell, Ruslan Salakhutdinov, Quoc V. Le, 	arXiv:1906.08237 [cs.CL]
+
+# Time Series Forecasting
