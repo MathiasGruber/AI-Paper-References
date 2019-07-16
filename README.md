@@ -1,17 +1,6 @@
 # Reading-List
 References for papers that I've read so that I can easily find them again. Not exhaustive, but trying to keep it up to date.
 
-# Traditional Machine Learning
-**2019**, KTBoost: Combined Kernel and Tree Boosting [[paper](https://arxiv.org/pdf/1902.03999.pdf)] [[code](https://github.com/fabsig/KTBoost)]
-* Fabio Sigrist, arXiv:1902.03999 [cs.LG]
-
-# Image Generation
-**2018**, Learning Linear Transformations for Fast Arbitrary Style Transfer [[paper](https://arxiv.org/abs/1808.04537)] [[official pytorch-code](https://github.com/sunshineatnoon/LinearStyleTransfer)]
-* Xueting Li, Sifei Liu, Jan Kautz, Ming-Hsuan Yang, arXiv:1808.04537 [cs.CV]
-
-**2017**, Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization [[paper](https://arxiv.org/abs/1703.06868)] [[official pytorch-code](https://github.com/xunhuang1995/AdaIN-style)]
-* Xun Huang, Serge Belongie, arXiv:1703.06868 [cs.CV]
-
 # Foundational
 **2019**, Predicting the Generalization Gap in Deep Networks with Margin Distributions [[paper](https://arxiv.org/abs/1810.00113)]
 * Yiding Jiang, Dilip Krishnan, Hossein Mobahi, Samy Bengio,	arXiv:1810.00113 [stat.ML]
@@ -24,3 +13,25 @@ References for papers that I've read so that I can easily find them again. Not e
 
 **2016**, All you need is a good init [[paper](https://arxiv.org/abs/1511.06422)] [[unofficial keras-code](https://github.com/ducha-aiki/LSUV-keras)]  [[pytorch-implementation](https://github.com/ducha-aiki/LSUV-pytorch)]
 * Dmytro Mishkin, Jiri Matas, arXiv:1511.06422 [cs.LG]
+
+# Traditional Machine Learning
+**2019**, KTBoost: Combined Kernel and Tree Boosting [[paper](https://arxiv.org/pdf/1902.03999.pdf)] [[code](https://github.com/fabsig/KTBoost)]
+* Fabio Sigrist, arXiv:1902.03999 [cs.LG]
+
+# Image Generation
+**2018**, Learning Linear Transformations for Fast Arbitrary Style Transfer [[paper](https://arxiv.org/abs/1808.04537)] [[official pytorch-code](https://github.com/sunshineatnoon/LinearStyleTransfer)]
+* Xueting Li, Sifei Liu, Jan Kautz, Ming-Hsuan Yang, arXiv:1808.04537 [cs.CV]
+
+**2017**, Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization [[paper](https://arxiv.org/abs/1703.06868)] [[official pytorch-code](https://github.com/xunhuang1995/AdaIN-style)]
+* Xun Huang, Serge Belongie, arXiv:1703.06868 [cs.CV]
+
+# Image Classification / Object Detection
+**2019**, Learning Data Augmentation Strategies for Object Detection [[paper](https://arxiv.org/abs/1906.11172v1)] 
+[[code](https://github.com/tensorflow/tpu/tree/master/models/official/detection)]
+* Barret Zoph, Ekin D. Cubuk, Golnaz Ghiasi, Tsung-Yi Lin, Jonathon Shlens, Quoc V. Le, arXiv:1906.11172 [cs.CV]
+
+**2019**, AutoAugment: Learning Augmentation Policies from Data [[paper](https://arxiv.org/abs/1805.09501)] [[code](https://github.com/tensorflow/models/tree/master/research/autoaugment)] [[bayesian-version in keras](https://github.com/barisozmen/deepaugment)]
+* Ekin D. Cubuk, Barret Zoph, Dandelion Mane, Vijay Vasudevan, Quoc V. Le, 	arXiv:1805.09501 [cs.CV]
+
+**2019**, Fast AutoAugment [[paper](https://arxiv.org/abs/1905.00397)] [[official pytorch-code](https://github.com/kakaobrain/fast-autoaugment)]
+* Sungbin Lim, Ildoo Kim, Taesup Kim, Chiheon Kim, Sungwoong Kim, arXiv:1905.00397 [cs.LG]
