@@ -5,6 +5,9 @@ References for papers that I've read so that I can easily find them again. Not e
 **2019**, Predicting the Generalization Gap in Deep Networks with Margin Distributions [[paper](https://arxiv.org/abs/1810.00113)]
 * Yiding Jiang, Dilip Krishnan, Hossein Mobahi, Samy Bengio,	arXiv:1810.00113 [stat.ML]
 
+**2017-2019**, Decoupled Weight Decay Regularization [[paper](https://arxiv.org/abs/1711.05101)]
+* Ilya Loshchilov, Frank Hutter, 	arXiv:1711.05101 [cs.LG]
+
 **2018**, Dynamical Isometry and a Mean Field Theory of CNNs: How to Train 10,000-Layer Vanilla Convolutional Neural Networks [[paper](https://arxiv.org/abs/1806.05393)] [[tensorflow-implementation](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/python/ops/init_ops.py)]
 * Lechao Xiao, Yasaman Bahri, Jascha Sohl-Dickstein, Samuel S. Schoenholz, Jeffrey Pennington, 	arXiv:1806.05393 [stat.ML]
 
