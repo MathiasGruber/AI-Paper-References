@@ -2,6 +2,9 @@
 References for papers that I've read so that I can easily find them again. Not exhaustive, but trying to keep it up to date.
 
 # Foundational
+**2019**, Four Things Everyone Should Know to Improve Batch Normalization, [[paper](https://arxiv.org/abs/1906.03548)]
+* Cecilia Summers, Michael J. Dinneen, arXiv:1906.03548 [cs.LG]
+
 **2019**, Large Batch Optimization for Deep Learning: Training BERT in 76 minutes [[paper](https://arxiv.org/abs/1904.00962)]
 * Yang You, Jing Li, Sashank Reddi, Jonathan Hseu, Sanjiv Kumar, Srinadh Bhojanapalli, Xiaodan Song, James Demmel, Cho-Jui Hsieh, 	arXiv:1904.00962 [cs.LG]
 
