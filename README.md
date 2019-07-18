@@ -1,4 +1,4 @@
-# Reading-List
+# References
 References for papers that I've read so that I can easily find them again. Not exhaustive, but trying to keep it up to date.
 
 # Foundational
