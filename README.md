@@ -24,9 +24,12 @@ References for papers that I've read so that I can easily find them again. Not e
 **2019**, KTBoost: Combined Kernel and Tree Boosting [[paper](https://arxiv.org/pdf/1902.03999.pdf)] [[code](https://github.com/fabsig/KTBoost)]
 * Fabio Sigrist, arXiv:1902.03999 [cs.LG]
 
-# Image Generation
+# Style Transfer
 **2018**, Learning Linear Transformations for Fast Arbitrary Style Transfer [[paper](https://arxiv.org/abs/1808.04537)] [[official pytorch-code](https://github.com/sunshineatnoon/LinearStyleTransfer)]
 * Xueting Li, Sifei Liu, Jan Kautz, Ming-Hsuan Yang, arXiv:1808.04537 [cs.CV]
+
+**2017**, Universal Style Transfer via Feature Transforms [[paper](https://arxiv.org/pdf/1705.08086.pdf)]
+* Yijun Li, Chen Fang, Jimei Yang, Zhaowen Wang, Xin Lu, Ming-Hsuan Yang, arXiv:1705.08086 [cs.CV]
 
 **2017**, Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization [[paper](https://arxiv.org/abs/1703.06868)] [[official pytorch-code](https://github.com/xunhuang1995/AdaIN-style)]
 * Xun Huang, Serge Belongie, arXiv:1703.06868 [cs.CV]
