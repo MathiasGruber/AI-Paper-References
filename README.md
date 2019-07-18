@@ -46,6 +46,9 @@ References for papers that I've read so that I can easily find them again. Not e
 **2019**, XLNet: Generalized Autoregressive Pretraining for Language Understanding [[paper](https://arxiv.org/abs/1906.08237)] [[code](https://github.com/zihangdai/xlnet)] [[keras-implementation](https://github.com/CyberZHG/keras-xlnet)]
 * Zhilin Yang, Zihang Dai, Yiming Yang, Jaime Carbonell, Ruslan Salakhutdinov, Quoc V. Le, 	arXiv:1906.08237 [cs.CL]
 
+**2018**, Universal Language Model Fine-tuning for Text Classification [[paper](https://arxiv.org/abs/1801.06146)] [[implementations](https://paperswithcode.com/paper/universal-language-model-fine-tuning-for-text)]
+* Jeremy Howard, Sebastian Ruder, arXiv:1801.06146 [cs.CL]
+
 **2017**, Attention is all you need [[paper](https://arxiv.org/abs/1706.03762)] [[code](https://github.com/tensorflow/tensor2tensor/blob/master/tensor2tensor/models/transformer.py)] [[tutorial](https://www.tensorflow.org/beta/tutorials/text/transformer)]
 * Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin, 	arXiv:1706.03762 [cs.CL]
 
