@@ -58,4 +58,8 @@ References for papers that I've read so that I can easily find them again. Not e
 **2017**, Attention is all you need [[paper](https://arxiv.org/abs/1706.03762)] [[code](https://github.com/tensorflow/tensor2tensor/blob/master/tensor2tensor/models/transformer.py)] [[tutorial](https://www.tensorflow.org/beta/tutorials/text/transformer)]
 * Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin, 	arXiv:1706.03762 [cs.CL]
 
+# Biological Representation Learning
+**2019**, Universal Deep Sequence Models for Protein Classification [[paper](https://www.biorxiv.org/content/10.1101/704874v1)]
+* Nils Strodthoff, Patrick Wagner, Markus Wenzel, Wojciech Samek, doi: https://doi.org/10.1101/704874
+
 # Time Series Forecasting
