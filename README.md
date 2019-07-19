@@ -62,4 +62,7 @@ References for papers that I've read so that I can easily find them again. Not e
 **2019**, Universal Deep Sequence Models for Protein Classification [[paper](https://www.biorxiv.org/content/10.1101/704874v1)]
 * Nils Strodthoff, Patrick Wagner, Markus Wenzel, Wojciech Samek, doi: https://doi.org/10.1101/704874
 
+**2019**, Unified rational protein engineering with sequence-only deep representation learning, [[paper](https://www.biorxiv.org/content/10.1101/589333v1)]
+* Ethan C. Alley, Grigory Khimulya,  Surojit Biswas, Mohammed AlQuraishi, George M. Church, doi: https://doi.org/10.1101/589333
+
 # Time Series Forecasting
