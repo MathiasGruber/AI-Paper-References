@@ -49,6 +49,9 @@ References for papers that I've read so that I can easily find them again. Not e
 * Tong He, Zhi Zhang, Hang Zhang, Zhongyue Zhang, Junyuan Xie, Mu Li, arXiv:1812.01187 [cs.CV]
 
 # Natural Language Processing
+**2019**, RoBERTa: A Robustly Optimized BERT Pretraining Approach [[paper](https://arxiv.org/abs/1907.11692)] [[code](https://github.com/pytorch/fairseq/tree/master/examples/roberta)]
+* Yinhan Liu, Myle Ott, Naman Goyal, Jingfei Du, Mandar Joshi, Danqi Chen, Omer Levy, Mike Lewis, Luke Zettlemoyer, Veselin Stoyanov, arXiv:1907.11692 [cs.CL]
+
 **2019**, XLNet: Generalized Autoregressive Pretraining for Language Understanding [[paper](https://arxiv.org/abs/1906.08237)] [[code](https://github.com/zihangdai/xlnet)] [[keras-implementation](https://github.com/CyberZHG/keras-xlnet)]
 * Zhilin Yang, Zihang Dai, Yiming Yang, Jaime Carbonell, Ruslan Salakhutdinov, Quoc V. Le, 	arXiv:1906.08237 [cs.CL]
 
