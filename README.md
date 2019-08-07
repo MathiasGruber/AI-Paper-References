@@ -69,3 +69,7 @@ References for papers that I've read so that I can easily find them again. Not e
 * Ethan C. Alley, Grigory Khimulya,  Surojit Biswas, Mohammed AlQuraishi, George M. Church, doi: https://doi.org/10.1101/589333
 
 # Time Series Forecasting
+
+# Drug Design
+**2019**, Deep learning for molecular design - a review of the state of the art [[paper](https://arxiv.org/abs/1903.04388)]
+* Daniel C. Elton, Zois Boukouvalas, Mark D. Fuge, Peter W. Chung, 	arXiv:1903.04388 [cs.LG]
