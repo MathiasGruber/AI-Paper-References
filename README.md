@@ -73,3 +73,7 @@ References for papers that I've read so that I can easily find them again. Not e
 # Drug Design
 **2019**, Deep learning for molecular design - a review of the state of the art [[paper](https://arxiv.org/abs/1903.04388)]
 * Daniel C. Elton, Zois Boukouvalas, Mark D. Fuge, Peter W. Chung, 	arXiv:1903.04388 [cs.LG]
+
+# Interpretation / Explainability
+**2019**, Can You Trust This Prediction? Auditing Pointwise Reliability After Learning [[paper](https://arxiv.org/abs/1901.00403)]
+* Peter Schulam, Suchi Saria, arXiv:1901.00403 [stat.ML]
