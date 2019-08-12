@@ -77,3 +77,6 @@ References for papers that I've read so that I can easily find them again. Not e
 # Interpretation / Explainability
 **2019**, Can You Trust This Prediction? Auditing Pointwise Reliability After Learning [[paper](https://arxiv.org/abs/1901.00403)]
 * Peter Schulam, Suchi Saria, arXiv:1901.00403 [stat.ML]
+
+**2017**, A Unified Approach to Interpreting Model Predictions [[paper](https://arxiv.org/abs/1705.07874)]
+* Scott Lundberg, Su-In Lee, arXiv:1705.07874 [cs.AI]
