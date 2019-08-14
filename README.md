@@ -24,6 +24,10 @@ References for papers that I've read so that I can easily find them again. Not e
 **2019**, KTBoost: Combined Kernel and Tree Boosting [[paper](https://arxiv.org/pdf/1902.03999.pdf)] [[code](https://github.com/fabsig/KTBoost)]
 * Fabio Sigrist, arXiv:1902.03999 [cs.LG]
 
+# Image Genneration
+**2019**, High-Fidelity Image Generation With Fewer Labels, [[paper](https://arxiv.org/abs/1903.02271v1)]
+* Mario Lucic, Michael Tschannen, Marvin Ritter, Xiaohua Zhai, Olivier Bachem, Sylvain Gelly
+
 # Style Transfer
 **2018**, Learning Linear Transformations for Fast Arbitrary Style Transfer [[paper](https://arxiv.org/abs/1808.04537)] [[official pytorch-code](https://github.com/sunshineatnoon/LinearStyleTransfer)]
 * Xueting Li, Sifei Liu, Jan Kautz, Ming-Hsuan Yang, arXiv:1808.04537 [cs.CV]
