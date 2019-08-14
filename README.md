@@ -25,7 +25,7 @@ References for papers that I've read so that I can easily find them again. Not e
 * Fabio Sigrist, arXiv:1902.03999 [cs.LG]
 
 # Image Genneration
-**2019**, High-Fidelity Image Generation With Fewer Labels, [[paper](https://arxiv.org/abs/1903.02271v1)]
+**2019**, High-Fidelity Image Generation With Fewer Labels, [[paper](https://arxiv.org/abs/1903.02271v1)] [[code](https://github.com/google/compare_gan)]
 * Mario Lucic, Michael Tschannen, Marvin Ritter, Xiaohua Zhai, Olivier Bachem, Sylvain Gelly
 
 # Style Transfer
