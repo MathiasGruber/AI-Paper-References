@@ -24,6 +24,10 @@ References for papers that I've read so that I can easily find them again. Not e
 **2019**, KTBoost: Combined Kernel and Tree Boosting [[paper](https://arxiv.org/pdf/1902.03999.pdf)] [[code](https://github.com/fabsig/KTBoost)]
 * Fabio Sigrist, arXiv:1902.03999 [cs.LG]
 
+# Semi-Supervised Learning
+**2019**, MixMatch: A Holistic Approach to Semi-Supervised Learning, [[paper](https://arxiv.org/abs/1905.02249)]
+* David Berthelot, Nicholas Carlini, Ian Goodfellow, Nicolas Papernot, Avital Oliver, Colin Raffel, arXiv:1905.02249 [cs.LG]
+
 # Image Genneration
 **2019**, High-Fidelity Image Generation With Fewer Labels, [[paper](https://arxiv.org/abs/1903.02271v1)] [[code](https://github.com/google/compare_gan)]
 * Mario Lucic, Michael Tschannen, Marvin Ritter, Xiaohua Zhai, Olivier Bachem, Sylvain Gelly
