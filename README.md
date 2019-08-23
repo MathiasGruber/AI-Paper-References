@@ -2,6 +2,9 @@
 References for papers that I've read so that I can easily find them again. Not exhaustive, but trying to keep it up to date.
 
 # Foundational
+**2019**, Lookahead Optimizer: k steps forward, 1 step back, [[paper](https://arxiv.org/abs/1907.08610v1)]
+* Michael R. Zhang, James Lucas, Geoffrey Hinton, Jimmy Ba, arXiv:1907.08610 [cs.LG]
+
 **2019**, Four Things Everyone Should Know to Improve Batch Normalization, [[paper](https://arxiv.org/abs/1906.03548)]
 * Cecilia Summers, Michael J. Dinneen, arXiv:1906.03548 [cs.LG]
 
