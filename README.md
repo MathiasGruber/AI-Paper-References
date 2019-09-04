@@ -85,6 +85,9 @@ References for papers that I've read so that I can easily find them again. Not e
 # Time Series Forecasting
 
 # Drug Design
+**2019**, Deep learning enables rapid identification of potent DDR1 kinase inhibitors [[paper](https://www.nature.com/articles/s41587-019-0224-x)]
+* Alex Zhavoronkov et al., Nature Biotechnologyvolume 37, pages1038–1040 (2019)
+
 **2019**, Deep learning for molecular design - a review of the state of the art [[paper](https://arxiv.org/abs/1903.04388)]
 * Daniel C. Elton, Zois Boukouvalas, Mark D. Fuge, Peter W. Chung, 	arXiv:1903.04388 [cs.LG]
 
