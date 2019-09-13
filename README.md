@@ -2,6 +2,9 @@
 References for papers that I've read so that I can easily find them again. Not exhaustive, but trying to keep it up to date.
 
 # Foundational
+**2019**, Class-Balanced Loss Based on Effective Number of Samples [[paper](https://arxiv.org/abs/1901.05555)]
+* Yin Cui, Menglin Jia, Tsung-Yi Lin, Yang Song, Serge Belongie, 	arXiv:1901.05555 [cs.CV]
+
 **2019**, Lookahead Optimizer: k steps forward, 1 step back, [[paper](https://arxiv.org/abs/1907.08610v1)]
 * Michael R. Zhang, James Lucas, Geoffrey Hinton, Jimmy Ba, arXiv:1907.08610 [cs.LG]
 
@@ -97,3 +100,7 @@ References for papers that I've read so that I can easily find them again. Not e
 
 **2017**, A Unified Approach to Interpreting Model Predictions [[paper](https://arxiv.org/abs/1705.07874)]
 * Scott Lundberg, Su-In Lee, arXiv:1705.07874 [cs.AI]
+
+# Chemistry
+**2019**, Ab-Initio Solution of the Many-Electron Schrödinger Equation with Deep Neural Networks [[paper](https://arxiv.org/abs/1909.02487)]
+* David Pfau, James S. Spencer, Alexander G. de G. Matthews, W. M. C. Foulkes, arXiv:1909.02487 [physics.chem-ph]
