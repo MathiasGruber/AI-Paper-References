@@ -86,6 +86,11 @@ References for papers that I've read so that I can easily find them again. Not e
 * Ethan C. Alley, Grigory Khimulya,  Surojit Biswas, Mohammed AlQuraishi, George M. Church, doi: https://doi.org/10.1101/589333
 
 # Time Series Forecasting
+**2018**, SeriesNet:A Generative Time Series Forecasting Model, [[paper](https://ieeexplore.ieee.org/document/8489522)]
+* Zhipeng Shen ; Yuanming Zhang ; Jiawei Lu ; Jun Xu ; Gang Xiao, ISBN: 978-1-5090-6014-6
+
+**2017**, Conditional Time Series Forecasting with Convolutional Neural Networks [[paper](https://arxiv.org/abs/1703.04691)]
+* Anastasia Borovykh, Sander Bohte, Cornelis W. Oosterlee, arXiv:1703.04691 [stat.ML]
 
 # Drug Design
 **2019**, Deep learning enables rapid identification of potent DDR1 kinase inhibitors [[paper](https://www.nature.com/articles/s41587-019-0224-x)]
