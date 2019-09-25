@@ -29,6 +29,9 @@ References for papers that I've read so that I can easily find them again. Not e
 **2016**, All you need is a good init [[paper](https://arxiv.org/abs/1511.06422)] [[unofficial keras-code](https://github.com/ducha-aiki/LSUV-keras)]  [[pytorch-implementation](https://github.com/ducha-aiki/LSUV-pytorch)]
 * Dmytro Mishkin, Jiri Matas, arXiv:1511.06422 [cs.LG]
 
+**2009**, Measuring classifier performance: a coherent alternative to the area under the ROC curve, [[https://link.springer.com/article/10.1007/s10994-009-5119-5](paper)]
+* David J. Hand, Hand, D.J. Mach Learn (2009) 77: 103.
+
 # Traditional Machine Learning
 **2019**, KTBoost: Combined Kernel and Tree Boosting [[paper](https://arxiv.org/pdf/1902.03999.pdf)] [[code](https://github.com/fabsig/KTBoost)]
 * Fabio Sigrist, arXiv:1902.03999 [cs.LG]
