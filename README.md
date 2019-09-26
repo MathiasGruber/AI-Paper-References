@@ -2,6 +2,9 @@
 References for papers that I've read so that I can easily find them again. Not exhaustive, but trying to keep it up to date.
 
 # Foundational
+**2019**, Learning Loss for Active Learning [[paper](https://arxiv.org/pdf/1905.03677.pdf)]
+* Donggeun Yoo, In So Kweon, arXiv:1905.03677 [cs.CV]
+
 **2019**, Class-Balanced Loss Based on Effective Number of Samples [[paper](https://arxiv.org/abs/1901.05555)]
 * Yin Cui, Menglin Jia, Tsung-Yi Lin, Yang Song, Serge Belongie, 	arXiv:1901.05555 [cs.CV]
 
