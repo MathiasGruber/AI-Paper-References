@@ -84,7 +84,13 @@ References for papers that I've read so that I can easily find them again. Not e
 **2017**, Attention is all you need [[paper](https://arxiv.org/abs/1706.03762)] [[code](https://github.com/tensorflow/tensor2tensor/blob/master/tensor2tensor/models/transformer.py)] [[tutorial](https://www.tensorflow.org/beta/tutorials/text/transformer)]
 * Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin, 	arXiv:1706.03762 [cs.CL]
 
+**2016**, Enriching Word Vectors with Subword Information [[paper](https://arxiv.org/abs/1607.04606#)]
+* Piotr Bojanowski, Edouard Grave, Armand Joulin, Tomas Mikolov, 	arXiv:1607.04606 [cs.CL]
+
 # Biological Representation Learning
+**2019**, Probabilistic variable-length segmentation of protein sequences for discriminative motif discovery (DiMotif) and sequence embedding (ProtVecX) [[paper](https://www.nature.com/articles/s41598-019-38746-w)]
+* Ehsaneddin Asgari, Alice C. McHardy & Mohammad R. K. Mofrad, Scientific Reportsvolume 9, Article number: 3577 (2019)
+
 **2019**, Universal Deep Sequence Models for Protein Classification [[paper](https://www.biorxiv.org/content/10.1101/704874v1)]
 * Nils Strodthoff, Patrick Wagner, Markus Wenzel, Wojciech Samek, doi: https://doi.org/10.1101/704874
 
