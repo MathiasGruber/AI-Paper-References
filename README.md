@@ -133,3 +133,7 @@ References for papers that I've read so that I can easily find them again. Not e
 # Chemistry
 **2019**, Ab-Initio Solution of the Many-Electron Schrödinger Equation with Deep Neural Networks [[paper](https://arxiv.org/abs/1909.02487)]
 * David Pfau, James S. Spencer, Alexander G. de G. Matthews, W. M. C. Foulkes, arXiv:1909.02487 [physics.chem-ph]
+
+# Non-technical
+**2019**, 150 successful Machine Learning models: 6 lessons learned at Booking.com, [[paper](https://www.kdd.org/kdd2019/accepted-papers/view/150-successful-machine-learning-models-6-lessons-learned-at-booking.com)]
+* Pablo Estevez, Themistoklis Mavridis and Lucas Bernardi
