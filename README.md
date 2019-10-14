@@ -2,6 +2,9 @@
 References for papers that I've read so that I can easily find them again. Not exhaustive, but trying to keep it up to date.
 
 # Foundational
+**2019**, Adversarial Examples Are Not Bugs, They are Features [[paper](https://arxiv.org/pdf/1905.02175.pdf)]
+* Andrew Ilyas, Shibani Santurkar, Dimitris Tsipras, Logan Engstrom, Brandon Tran, Aleksander Madry, arXiv:1905.02175 [stat.ML]
+
 **2019**, Learning Loss for Active Learning [[paper](https://arxiv.org/pdf/1905.03677.pdf)]
 * Donggeun Yoo, In So Kweon, arXiv:1905.03677 [cs.CV]
 
