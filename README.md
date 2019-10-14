@@ -2,7 +2,7 @@
 References for papers that I've read so that I can easily find them again. Not exhaustive, but trying to keep it up to date.
 
 # Foundational
-**2019**, TriMap: Large-scale Dimensionality Reduction Using Triplets, [[paper](https://arxiv.org/abs/1910.00204)] [[cpde](https://github.com/eamid/trimap)]
+**2019**, TriMap: Large-scale Dimensionality Reduction Using Triplets, [[paper](https://arxiv.org/abs/1910.00204)] [[code](https://github.com/eamid/trimap)]
 * Ehsan Amid, Manfred K. Warmuth, arXiv:1910.00204 [cs.LG]
 
 **2019**, Learning Loss for Active Learning [[paper](https://arxiv.org/pdf/1905.03677.pdf)]
