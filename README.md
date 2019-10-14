@@ -2,9 +2,6 @@
 References for papers that I've read so that I can easily find them again. Not exhaustive, but trying to keep it up to date.
 
 # Foundational
-**2019**, TriMap: Large-scale Dimensionality Reduction Using Triplets, [[paper](https://arxiv.org/abs/1910.00204)] [[code](https://github.com/eamid/trimap)]
-* Ehsan Amid, Manfred K. Warmuth, arXiv:1910.00204 [cs.LG]
-
 **2019**, Learning Loss for Active Learning [[paper](https://arxiv.org/pdf/1905.03677.pdf)]
 * Donggeun Yoo, In So Kweon, arXiv:1905.03677 [cs.CV]
 
@@ -39,6 +36,9 @@ References for papers that I've read so that I can easily find them again. Not e
 * David J. Hand, Hand, D.J. Mach Learn (2009) 77: 103.
 
 # Traditional Machine Learning
+**2019**, TriMap: Large-scale Dimensionality Reduction Using Triplets, [[paper](https://arxiv.org/abs/1910.00204)] [[code](https://github.com/eamid/trimap)]
+* Ehsan Amid, Manfred K. Warmuth, arXiv:1910.00204 [cs.LG]
+
 **2019**, NGBoost: Natural Gradient Boosting for Probabilistic Prediction [[paper](https://arxiv.org/abs/1910.03225)]
 * Tony Duan, Anand Avati, Daisy Yi Ding, Sanjay Basu, Andrew Y. Ng, Alejandro Schuler, arXiv:1910.03225 [cs.LG]
 
