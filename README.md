@@ -49,7 +49,7 @@ References for papers that I've read so that I can easily find them again. Not e
 * Fabio Sigrist, arXiv:1902.03999 [cs.LG]
 
 # Probabilistic Models
-**2019**, BoTorch: Programmable Bayesian Optimization in PyTorch, [[paper](https://arxiv.org/abs/1910.06403)]
+**2019**, BoTorch: Programmable Bayesian Optimization in PyTorch, [[paper](https://arxiv.org/abs/1910.06403)] [[code](https://github.com/pytorch/botorch)]
 * Maximilian Balandat, Brian Karrer, Daniel R. Jiang, Samuel Daulton, Benjamin Letham, Andrew Gordon Wilson, Eytan Bakshy, arXiv:1910.06403 [cs.LG]
 
 **2018**, A Tutorial on Bayesian Optimization, [[paper](https://arxiv.org/abs/1807.02811)]
