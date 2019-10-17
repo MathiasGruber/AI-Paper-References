@@ -48,6 +48,13 @@ References for papers that I've read so that I can easily find them again. Not e
 **2019**, KTBoost: Combined Kernel and Tree Boosting [[paper](https://arxiv.org/pdf/1902.03999.pdf)] [[code](https://github.com/fabsig/KTBoost)]
 * Fabio Sigrist, arXiv:1902.03999 [cs.LG]
 
+# Probabilistic Models
+**2019**, BoTorch: Programmable Bayesian Optimization in PyTorch, [[paper](https://arxiv.org/abs/1910.06403)]
+* Maximilian Balandat, Brian Karrer, Daniel R. Jiang, Samuel Daulton, Benjamin Letham, Andrew Gordon Wilson, Eytan Bakshy, arXiv:1910.06403 [cs.LG]
+
+**2018**, A Tutorial on Bayesian Optimization, [[paper](https://arxiv.org/abs/1807.02811)]
+* Peter I. Frazier, arXiv:1807.02811 [stat.ML]
+
 # Semi-Supervised Learning
 **2019**, MixMatch: A Holistic Approach to Semi-Supervised Learning, [[paper](https://arxiv.org/abs/1905.02249)]
 * David Berthelot, Nicholas Carlini, Ian Goodfellow, Nicolas Papernot, Avital Oliver, Colin Raffel, arXiv:1905.02249 [cs.LG]
