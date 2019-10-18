@@ -55,6 +55,9 @@ References for papers that I've read so that I can easily find them again. Not e
 **2019**, GPyTorch: Blackbox Matrix-Matrix Gaussian Process Inference with GPU Acceleration, [[paper](https://arxiv.org/abs/1809.11165)] [[code](https://gpytorch.ai/)]
 * Jacob R. Gardner, Geoff Pleiss, David Bindel, Kilian Q. Weinberger, Andrew Gordon Wilson, 	arXiv:1809.11165 [cs.LG]
 
+**2018**, Dealing with Categorical and Integer-valued Variables in Bayesian Optimization with Gaussian Processes, [[paper](https://arxiv.org/abs/1805.03463)]
+* Eduardo C. Garrido-Merchán, Daniel Hernández-Lobato,	arXiv:1805.03463 [stat.ML]
+
 **2018**, A Tutorial on Bayesian Optimization, [[paper](https://arxiv.org/abs/1807.02811)]
 * Peter I. Frazier, arXiv:1807.02811 [stat.ML]
 
