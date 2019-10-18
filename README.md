@@ -52,6 +52,9 @@ References for papers that I've read so that I can easily find them again. Not e
 **2019**, BoTorch: Programmable Bayesian Optimization in PyTorch, [[paper](https://arxiv.org/abs/1910.06403)] [[code](https://github.com/pytorch/botorch)]
 * Maximilian Balandat, Brian Karrer, Daniel R. Jiang, Samuel Daulton, Benjamin Letham, Andrew Gordon Wilson, Eytan Bakshy, arXiv:1910.06403 [cs.LG]
 
+**2019**, GPyTorch: Blackbox Matrix-Matrix Gaussian Process Inference with GPU Acceleration, [[paper](https://arxiv.org/abs/1809.11165)] [[code](https://gpytorch.ai/)]
+* Jacob R. Gardner, Geoff Pleiss, David Bindel, Kilian Q. Weinberger, Andrew Gordon Wilson, 	arXiv:1809.11165 [cs.LG]
+
 **2018**, A Tutorial on Bayesian Optimization, [[paper](https://arxiv.org/abs/1807.02811)]
 * Peter I. Frazier, arXiv:1807.02811 [stat.ML]
 
