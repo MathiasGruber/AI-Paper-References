@@ -97,6 +97,9 @@ References for papers that I've read so that I can easily find them again. Not e
 * Tong He, Zhi Zhang, Hang Zhang, Zhongyue Zhang, Junyuan Xie, Mu Li, arXiv:1812.01187 [cs.CV]
 
 # Natural Language Processing
+**2019**, Patent Analytics Based on Feature Vector Space Model: A Case of IoT, [[paper](https://arxiv.org/abs/1904.08100)]
+* Lei Lei, Jiaju Qi, Kan Zheng, arXiv:1904.08100 [cs.CL]
+
 **2019**, RoBERTa: A Robustly Optimized BERT Pretraining Approach [[paper](https://arxiv.org/abs/1907.11692)] [[code](https://github.com/pytorch/fairseq/tree/master/examples/roberta)]
 * Yinhan Liu, Myle Ott, Naman Goyal, Jingfei Du, Mandar Joshi, Danqi Chen, Omer Levy, Mike Lewis, Luke Zettlemoyer, Veselin Stoyanov, arXiv:1907.11692 [cs.CL]
 
@@ -150,3 +153,6 @@ References for papers that I've read so that I can easily find them again. Not e
 # Non-technical
 **2019**, 150 successful Machine Learning models: 6 lessons learned at Booking.com, [[paper](https://www.kdd.org/kdd2019/accepted-papers/view/150-successful-machine-learning-models-6-lessons-learned-at-booking.com)]
 * Pablo Estevez, Themistoklis Mavridis and Lucas Bernardi
+
+**2018**, The state-of-the-art on Intellectual Property Analytics (IPA): A literature review on artificial intelligence, machine learning and deep learning methods for analysing intellectual property (IP) data [[paper](https://reader.elsevier.com/reader/sd/pii/S0172219018300103?token=FA15B51A34BCC633A61D1925EEC1F5922254EBB8BD769D2AAFC3596735FFA3AFA528673C2CD6FA80B238773C670A6348)]
+* Aristodemou, L. and Tietze, F.
