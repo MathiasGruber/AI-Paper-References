@@ -2,6 +2,9 @@
 References for papers that I've read so that I can easily find them again. Not exhaustive, but trying to keep it up to date.
 
 # Foundational
+**2019**, Which principal components are most sensitive to distributional changes?, [[paper](https://arxiv.org/abs/1905.06318)]
+* Martin Tveten, arXiv:1905.06318 [math.ST]
+
 **2019**, Adversarial Examples Are Not Bugs, They are Features [[paper](https://arxiv.org/pdf/1905.02175.pdf)]
 * Andrew Ilyas, Shibani Santurkar, Dimitris Tsipras, Logan Engstrom, Brandon Tran, Aleksander Madry, arXiv:1905.02175 [stat.ML]
 
