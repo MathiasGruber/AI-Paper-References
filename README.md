@@ -142,6 +142,9 @@ References for papers that I've read so that I can easily find them again. Not e
 **2019**, Deep learning for molecular design - a review of the state of the art [[paper](https://arxiv.org/abs/1903.04388)]
 * Daniel C. Elton, Zois Boukouvalas, Mark D. Fuge, Peter W. Chung, 	arXiv:1903.04388 [cs.LG]
 
+**2017**, Neural Message Passing for Quantum Chemistry, [[paper](https://arxiv.org/abs/1704.01212)] [[code](https://github.com/priba/nmp_qc)]
+* Justin Gilmer, Samuel S. Schoenholz, Patrick F. Riley, Oriol Vinyals, George E. Dahl, arXiv:1704.01212 [cs.LG]
+
 # Interpretation / Explainability
 **2019**, Can You Trust This Prediction? Auditing Pointwise Reliability After Learning [[paper](https://arxiv.org/abs/1901.00403)]
 * Peter Schulam, Suchi Saria, arXiv:1901.00403 [stat.ML]
