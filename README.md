@@ -64,6 +64,9 @@ References for papers that I've read so that I can easily find them again. Not e
 **2018**, A Tutorial on Bayesian Optimization, [[paper](https://arxiv.org/abs/1807.02811)]
 * Peter I. Frazier, arXiv:1807.02811 [stat.ML]
 
+**2018**, Subset-Conditioned Generation Using Variational Autoencoder With A Learnable Tensor-Train Induced Prior, [[paper](http://bayesiandeeplearning.org/2018/papers/55.pdf)]
+* Maksim Kuznetsov et al, Third workshop on Bayesian Deep Learning (NeurIPS 2018), Montréal, Canada.
+
 # Semi-Supervised Learning
 **2019**, MixMatch: A Holistic Approach to Semi-Supervised Learning, [[paper](https://arxiv.org/abs/1905.02249)]
 * David Berthelot, Nicholas Carlini, Ian Goodfellow, Nicolas Papernot, Avital Oliver, Colin Raffel, arXiv:1905.02249 [cs.LG]
