@@ -139,6 +139,9 @@ References for papers that I've read so that I can easily find them again. Not e
 * Anastasia Borovykh, Sander Bohte, Cornelis W. Oosterlee, arXiv:1703.04691 [stat.ML]
 
 # Drug Design
+**2019**, Machine Learning for Scent: Learning Generalizable Perceptual Representations of Small Molecules [[paper](https://arxiv.org/abs/1910.10685)]
+* Benjamin Sanchez-Lengeling, Jennifer N. Wei, Brian K. Lee, Richard C. Gerkin, Alán Aspuru-Guzik, Alexander B. Wiltschko, 	arXiv:1910.10685 [stat.ML]
+
 **2019**, Deep learning enables rapid identification of potent DDR1 kinase inhibitors [[paper](https://www.nature.com/articles/s41587-019-0224-x)]
 * Alex Zhavoronkov et al., Nature Biotechnologyvolume 37, pages1038–1040 (2019)
 
