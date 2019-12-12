@@ -52,6 +52,9 @@ References for papers that I've read so that I can easily find them again. Not e
 * Fabio Sigrist, arXiv:1902.03999 [cs.LG]
 
 # Probabilistic Models
+**2019**, Learning Hierarchical Priors in VAEs, [[paper](https://arxiv.org/abs/1905.04982)]
+* Alexej Klushyn, Nutan Chen, Richard Kurle, Botond Cseke, Patrick van der Smagt, rXiv:1905.04982 [stat.ML]
+
 **2019**, BoTorch: Programmable Bayesian Optimization in PyTorch, [[paper](https://arxiv.org/abs/1910.06403)] [[code](https://github.com/pytorch/botorch)]
 * Maximilian Balandat, Brian Karrer, Daniel R. Jiang, Samuel Daulton, Benjamin Letham, Andrew Gordon Wilson, Eytan Bakshy, arXiv:1910.06403 [cs.LG]
 
@@ -101,6 +104,10 @@ References for papers that I've read so that I can easily find them again. Not e
 
 **2018**, Bag of Tricks for Image Classification with Convolutional Neural Networks [[paper](https://arxiv.org/abs/1812.01187)]
 * Tong He, Zhi Zhang, Hang Zhang, Zhongyue Zhang, Junyuan Xie, Mu Li, arXiv:1812.01187 [cs.CV]
+
+# Sequence Models
+**2019**, Legendre Memory Units: Continuous-Time Representation in Recurrent Neural Networks, [[paper](http://compneuro.uwaterloo.ca/files/publications/voelker.2019.lmu.pdf)]
+* Voelker, Aaron and Kaji, Ivana and Eliasmith, Chris
 
 # Natural Language Processing
 **2019**, Patent Analytics Based on Feature Vector Space Model: A Case of IoT, [[paper](https://arxiv.org/abs/1904.08100)]
