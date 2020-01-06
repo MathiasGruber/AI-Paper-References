@@ -146,6 +146,9 @@ References for papers that I've read so that I can easily find them again. Not e
 * Anastasia Borovykh, Sander Bohte, Cornelis W. Oosterlee, arXiv:1703.04691 [stat.ML]
 
 # Drug Design
+**2019**, Rethinking drug design in the artificial intelligence era [[paper](https://www.nature.com/articles/s41573-019-0050-3)]
+* Schneider P., Walters W., Plowright A., Sieroka N., Listgarten J., Goodnow R., Fisher J., Jansen J., Duca J., Rush T., Zentgraf M., Hill J., Krutoholow E., Kohler M., Blaney J., Funatsu K., Luebkemann C., Schneider G., Nat Rev Drug Discov (2019)
+
 **2019**, Machine Learning for Scent: Learning Generalizable Perceptual Representations of Small Molecules [[paper](https://arxiv.org/abs/1910.10685)]
 * Benjamin Sanchez-Lengeling, Jennifer N. Wei, Brian K. Lee, Richard C. Gerkin, Alán Aspuru-Guzik, Alexander B. Wiltschko, 	arXiv:1910.10685 [stat.ML]
 
