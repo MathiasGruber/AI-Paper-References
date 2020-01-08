@@ -146,6 +146,9 @@ References for papers that I've read so that I can easily find them again. Not e
 * Anastasia Borovykh, Sander Bohte, Cornelis W. Oosterlee, arXiv:1703.04691 [stat.ML]
 
 # Drug Design
+**2019**, Evaluating Scalable Uncertainty Estimation Methods for DNN-Based Molecular Property Prediction
+* Gabriele Scalia, Colin A. Grambow, Barbara Pernici, Yi-Pei Li, William H. Green, arXiv:1910.03127 [cs.LG]
+
 **2019**, Rethinking drug design in the artificial intelligence era [[paper](https://www.nature.com/articles/s41573-019-0050-3)]
 * Schneider P., Walters W., Plowright A., Sieroka N., Listgarten J., Goodnow R., Fisher J., Jansen J., Duca J., Rush T., Zentgraf M., Hill J., Krutoholow E., Kohler M., Blaney J., Funatsu K., Luebkemann C., Schneider G., Nat Rev Drug Discov (2019)
 
@@ -157,6 +160,9 @@ References for papers that I've read so that I can easily find them again. Not e
 
 **2019**, Deep learning for molecular design - a review of the state of the art [[paper](https://arxiv.org/abs/1903.04388)]
 * Daniel C. Elton, Zois Boukouvalas, Mark D. Fuge, Peter W. Chung, 	arXiv:1903.04388 [cs.LG]
+
+**2018**, Junction Tree Variational Autoencoder for Molecular Graph Generation [[paper](https://arxiv.org/abs/1802.04364)]
+* Wengong Jin, Regina Barzilay, Tommi Jaakkola, arXiv:1802.04364 [cs.LG]
 
 **2017**, Neural Message Passing for Quantum Chemistry, [[paper](https://arxiv.org/abs/1704.01212)] [[code](https://github.com/priba/nmp_qc)]
 * Justin Gilmer, Samuel S. Schoenholz, Patrick F. Riley, Oriol Vinyals, George E. Dahl, arXiv:1704.01212 [cs.LG]
