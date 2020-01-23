@@ -146,6 +146,9 @@ References for papers that I've read so that I can easily find them again. Not e
 * Anastasia Borovykh, Sander Bohte, Cornelis W. Oosterlee, arXiv:1703.04691 [stat.ML]
 
 # Drug Design
+**2019**, GraphLIME: Local Interpretable Model Explanations for Graph Neural Networks, [[paper](https://arxiv.org/abs/2001.06216)]
+* Qiang Huang, Makoto Yamada, Yuan Tian, Dinesh Singh, Dawei Yin, Yi Chang, arXiv:2001.06216 [cs.LG]
+
 **2019**, Evaluating Scalable Uncertainty Estimation Methods for DNN-Based Molecular Property Prediction [[paper](https://arxiv.org/abs/1910.03127)]
 * Gabriele Scalia, Colin A. Grambow, Barbara Pernici, Yi-Pei Li, William H. Green, arXiv:1910.03127 [cs.LG]
 
