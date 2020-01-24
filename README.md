@@ -42,6 +42,9 @@ References for papers that I've read so that I can easily find them again. Not e
 * David J. Hand, Hand, D.J. Mach Learn (2009) 77: 103.
 
 # Traditional Machine Learning
+**2019 (2012)**, High-Dimensional Feature Selection by Feature-Wise Kernelized Lasso [[paper](https://arxiv.org/abs/1202.0515)] [[code](https://github.com/riken-aip/pyHSICLasso)]
+* Makoto Yamada, Wittawat Jitkrittum, Leonid Sigal, Eric P. Xing, Masashi Sugiyama, arXiv:1202.0515 [stat.ML]
+
 **2019**, TriMap: Large-scale Dimensionality Reduction Using Triplets, [[paper](https://arxiv.org/abs/1910.00204)] [[code](https://github.com/eamid/trimap)]
 * Ehsan Amid, Manfred K. Warmuth, arXiv:1910.00204 [cs.LG]
 
