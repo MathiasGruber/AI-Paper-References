@@ -78,6 +78,9 @@ References for papers that I've read so that I can easily find them again. Not e
 * Maksim Kuznetsov et al, Third workshop on Bayesian Deep Learning (NeurIPS 2018), Montréal, Canada.
 
 # Semi-Supervised Learning
+**2020**, FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence [[paper](https://arxiv.org/abs/2001.07685]
+* Kihyuk Sohn, David Berthelot, Chun-Liang Li, Zizhao Zhang, Nicholas Carlini, Ekin D. Cubuk, Alex Kurakin, Han Zhang, Colin Raffel, arXiv:2001.07685 [cs.LG]
+
 **2019**, MixMatch: A Holistic Approach to Semi-Supervised Learning, [[paper](https://arxiv.org/abs/1905.02249)]
 * David Berthelot, Nicholas Carlini, Ian Goodfellow, Nicolas Papernot, Avital Oliver, Colin Raffel, arXiv:1905.02249 [cs.LG]
 
