@@ -54,6 +54,10 @@ References for papers that I've read so that I can easily find them again. Not e
 **2019**, KTBoost: Combined Kernel and Tree Boosting [[paper](https://arxiv.org/pdf/1902.03999.pdf)] [[code](https://github.com/fabsig/KTBoost)]
 * Fabio Sigrist, arXiv:1902.03999 [cs.LG]
 
+# Recommendation Models
+**2016**, Deep Neural Networks for YouTube Recommendations, [[paper](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf)]
+* Paul Covington, Jay Adams, Emre Sargin, Proceedings of the 10th ACM Conference on Recommender Systems, ACM, New York, NY, USA
+
 # Probabilistic Models
 **2019**, Learning Hierarchical Priors in VAEs, [[paper](https://arxiv.org/abs/1905.04982)]
 * Alexej Klushyn, Nutan Chen, Richard Kurle, Botond Cseke, Patrick van der Smagt, rXiv:1905.04982 [stat.ML]
