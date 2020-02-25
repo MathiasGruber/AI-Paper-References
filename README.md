@@ -184,6 +184,9 @@ References for papers that I've read so that I can easily find them again. Not e
 * Justin Gilmer, Samuel S. Schoenholz, Patrick F. Riley, Oriol Vinyals, George E. Dahl, arXiv:1704.01212 [cs.LG]
 
 # Interpretation / Explainability
+**2019**, Interpretable Deep Learning in Drug Discovery, [[paper](https://arxiv.org/abs/1903.02788)] [[code](https://github.com/bioinf-jku/interpretable_ml_drug_discovery)]
+* Kristina Preuer, Günter Klambauer, Friedrich Rippmann, Sepp Hochreiter, Thomas Unterthiner, arXiv:1903.02788 [cs.LG]
+
 **2019**, Can You Trust This Prediction? Auditing Pointwise Reliability After Learning [[paper](https://arxiv.org/abs/1901.00403)]
 * Peter Schulam, Suchi Saria, arXiv:1901.00403 [stat.ML]
 
