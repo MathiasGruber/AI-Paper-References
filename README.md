@@ -190,6 +190,9 @@ References for papers that I've read so that I can easily find them again. Not e
 **2019**, Can You Trust This Prediction? Auditing Pointwise Reliability After Learning [[paper](https://arxiv.org/abs/1901.00403)]
 * Peter Schulam, Suchi Saria, arXiv:1901.00403 [stat.ML]
 
+**2018**, BayesGrad: Explaining Predictions of Graph Convolutional Networks, [[paper](https://arxiv.org/abs/1807.01985)] [[code](https://github.com/pfnet-research/bayesgrad)]
+* Hirotaka Akita, Kosuke Nakago, Tomoki Komatsu, Yohei Sugawara, Shin-ichi Maeda, Yukino Baba, Hisashi Kashima, 	arXiv:1807.01985 [cs.LG]
+
 **2017**, A Unified Approach to Interpreting Model Predictions [[paper](https://arxiv.org/abs/1705.07874)]
 * Scott Lundberg, Su-In Lee, arXiv:1705.07874 [cs.AI]
 
