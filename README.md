@@ -159,6 +159,9 @@ References for papers that I've read so that I can easily find them again. Not e
 * Anastasia Borovykh, Sander Bohte, Cornelis W. Oosterlee, arXiv:1703.04691 [stat.ML]
 
 # Drug Design
+**2019**, Composing Molecules with Multiple Property Constraints, [[paper](https://arxiv.org/abs/2002.03244)]
+* Wengong Jin, Regina Barzilay, Tommi Jaakkola, arXiv:2002.03244 [cs.LG]
+
 **2019**, GraphLIME: Local Interpretable Model Explanations for Graph Neural Networks, [[paper](https://arxiv.org/abs/2001.06216)]
 * Qiang Huang, Makoto Yamada, Yuan Tian, Dinesh Singh, Dawei Yin, Yi Chang, arXiv:2001.06216 [cs.LG]
 
