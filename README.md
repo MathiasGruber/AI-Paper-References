@@ -123,6 +123,9 @@ References for papers that I've read so that I can easily find them again. Not e
 * Voelker, Aaron and Kaji, Ivana and Eliasmith, Chris
 
 # Natural Language Processing
+**2019**, BioBERT: a pre-trained biomedical language representation model for biomedical text mining, 
+* Jinhyuk Lee, Wonjin Yoon, Sungdong Kim, Donghyeon Kim, Sunkyu Kim, Chan Ho So, Jaewoo Kang, arXiv:1901.08746 [cs.CL]
+
 **2019**, Patent Analytics Based on Feature Vector Space Model: A Case of IoT, [[paper](https://arxiv.org/abs/1904.08100)]
 * Lei Lei, Jiaju Qi, Kan Zheng, arXiv:1904.08100 [cs.CL]
 
