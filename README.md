@@ -193,6 +193,9 @@ References for papers that I've read so that I can easily find them again. Not e
 * Justin Gilmer, Samuel S. Schoenholz, Patrick F. Riley, Oriol Vinyals, George E. Dahl, arXiv:1704.01212 [cs.LG]
 
 # Interpretation / Explainability
+**2019**, Using attribution to decode binding mechanism in neural network models for chemistry, [[paper](https://www.pnas.org/content/116/24/11624)]
+* Kevin McCloskey, Ankur Taly, Federico Monti, Michael P. Brenner, and Lucy J. Colwell, PNAS June 11, 2019 116 (24) 11624-11629
+
 **2019**, Interpretable Deep Learning in Drug Discovery, [[paper](https://arxiv.org/abs/1903.02788)] [[code](https://github.com/bioinf-jku/interpretable_ml_drug_discovery)]
 * Kristina Preuer, Günter Klambauer, Friedrich Rippmann, Sepp Hochreiter, Thomas Unterthiner, arXiv:1903.02788 [cs.LG]
 
