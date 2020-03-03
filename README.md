@@ -193,6 +193,9 @@ References for papers that I've read so that I can easily find them again. Not e
 * Justin Gilmer, Samuel S. Schoenholz, Patrick F. Riley, Oriol Vinyals, George E. Dahl, arXiv:1704.01212 [cs.LG]
 
 # Interpretation / Explainability
+**2019**, GNNExplainer: Generating Explanations for Graph Neural Networks [[paper](https://arxiv.org/abs/1903.03894)] [[code](https://github.com/RexYing/gnn-model-explainer)]
+* Rex Ying, Dylan Bourgeois, Jiaxuan You, Marinka Zitnik, Jure Leskovec, 	arXiv:1903.03894 [cs.LG]
+
 **2019**, Functional Transparency for Structured Data: a Game-Theoretic Approach, [[paper](https://arxiv.org/abs/1902.09737)]
 * Guang-He Lee, Wengong Jin, David Alvarez-Melis, Tommi S. Jaakkola, 	arXiv:1902.09737 [cs.LG]
 
