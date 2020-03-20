@@ -227,3 +227,7 @@ References for papers that I've read so that I can easily find them again. Not e
 
 **2018**, The state-of-the-art on Intellectual Property Analytics (IPA): A literature review on artificial intelligence, machine learning and deep learning methods for analysing intellectual property (IP) data [[paper](https://reader.elsevier.com/reader/sd/pii/S0172219018300103?token=FA15B51A34BCC633A61D1925EEC1F5922254EBB8BD769D2AAFC3596735FFA3AFA528673C2CD6FA80B238773C670A6348)]
 * Aristodemou, L. and Tietze, F.
+
+# Causality
+**2018**, Causal Discovery with Attention-Based Convolutional Neural Networks, [[paper](https://www.mdpi.com/2504-4990/1/1/19)]
+* Meike Nauta,Doina Bucur and Christin Seifert, Mach. Learn. Knowl. Extr. 2019, 1(1), 312-340
