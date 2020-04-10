@@ -162,6 +162,9 @@ References for papers that I've read so that I can easily find them again. Not e
 * Anastasia Borovykh, Sander Bohte, Cornelis W. Oosterlee, arXiv:1703.04691 [stat.ML]
 
 # Drug Design
+**2019**, Target-Specific and Selective Drug Design for COVID-19 Using Deep Generative Models, [[paper](https://arxiv.org/abs/2004.01215)]
+* Vijil Chenthamarakshan, Payel Das, Inkit Padhi, Hendrik Strobelt, Kar Wai Lim, Ben Hoover, Samuel C. Hoffman, Aleksandra Mojsilovic, 	arXiv:2004.01215 [cs.LG]
+
 **2019**, A Deep Learning Approach to Antibiotic Discovery [[paper](https://www.cell.com/action/showPdf?pii=S0092-8674%2820%2930102-1)]
 * Jonathan M. Stokes, Kevin Yang, Kyle Swanson, ..., Tommi S. Jaakkola, Regina Barzilay, James J. Collins, Cell 180, 688–702, February 20, 2020
 
