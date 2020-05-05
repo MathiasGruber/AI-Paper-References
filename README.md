@@ -123,6 +123,9 @@ References for papers that I've read so that I can easily find them again. Not e
 * Voelker, Aaron and Kaji, Ivana and Eliasmith, Chris
 
 # Natural Language Processing
+**2020**, Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer, [[paper](https://arxiv.org/abs/1910.10683)]
+* Colin Raffel, Noam Shazeer, Adam Roberts, Katherine Lee, Sharan Narang, Michael Matena, Yanqi Zhou, Wei Li, Peter J. Liu, 	arXiv:1910.10683 [cs.LG]
+
 **2019**, BioBERT: a pre-trained biomedical language representation model for biomedical text mining, 
 * Jinhyuk Lee, Wonjin Yoon, Sungdong Kim, Donghyeon Kim, Sunkyu Kim, Chan Ho So, Jaewoo Kang, arXiv:1901.08746 [cs.CL]
 
