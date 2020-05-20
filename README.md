@@ -165,6 +165,9 @@ References for papers that I've read so that I can easily find them again. Not e
 * Anastasia Borovykh, Sander Bohte, Cornelis W. Oosterlee, arXiv:1703.04691 [stat.ML]
 
 # Drug Design
+**2019**, Multi-Objective De Novo Drug Design with Conditional Graph Generative Model, [[paper](https://arxiv.org/abs/1801.07299)]
+* Yibo Li, Liangren Zhang, Zhenming Liu, arXiv:1801.07299 [q-bio.QM]
+
 **2019**, PharML.Bind: Pharmacologic Machine Learning for Protein-Ligand Interactions, [[paper](https://arxiv.org/abs/1911.06105)] [[code](https://github.com/jbalma/pharml)]
 * Aaron D. Vose, Jacob Balma, Damon Farnsworth, Kaylie Anderson, Yuri K. Peterson, 	arXiv:1911.06105 [q-bio.BM]
 
