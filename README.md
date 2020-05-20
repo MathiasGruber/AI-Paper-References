@@ -165,6 +165,9 @@ References for papers that I've read so that I can easily find them again. Not e
 * Anastasia Borovykh, Sander Bohte, Cornelis W. Oosterlee, arXiv:1703.04691 [stat.ML]
 
 # Drug Design
+**2019**, PharML.Bind: Pharmacologic Machine Learning for Protein-Ligand Interactions, [[paper](https://arxiv.org/abs/1911.06105)] [[code](https://github.com/jbalma/pharml)]
+* Aaron D. Vose, Jacob Balma, Damon Farnsworth, Kaylie Anderson, Yuri K. Peterson, 	arXiv:1911.06105 [q-bio.BM]
+
 **2019**, Target-Specific and Selective Drug Design for COVID-19 Using Deep Generative Models, [[paper](https://arxiv.org/abs/2004.01215)]
 * Vijil Chenthamarakshan, Payel Das, Inkit Padhi, Hendrik Strobelt, Kar Wai Lim, Ben Hoover, Samuel C. Hoffman, Aleksandra Mojsilovic, 	arXiv:2004.01215 [cs.LG]
 
