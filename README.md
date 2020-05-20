@@ -165,6 +165,9 @@ References for papers that I've read so that I can easily find them again. Not e
 * Anastasia Borovykh, Sander Bohte, Cornelis W. Oosterlee, arXiv:1703.04691 [stat.ML]
 
 # Drug Design
+**2019**, Efficient multi-objective molecular optimization in a continuous latent space, [[paper](https://pubs.rsc.org/en/content/articlelanding/2019/sc/c9sc01928f#!divAbstract)] [[code](https://github.com/jrwnter/mso)]
+* Robin Winter, Floriane Montanari, OAndreas Steffen, Hans Briem, Frank Noé and  Djork-Arné Clevert, 
+
 **2019**, Multi-Objective De Novo Drug Design with Conditional Graph Generative Model, [[paper](https://arxiv.org/abs/1801.07299)]
 * Yibo Li, Liangren Zhang, Zhenming Liu, arXiv:1801.07299 [q-bio.QM]
 
