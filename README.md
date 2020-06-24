@@ -233,6 +233,9 @@ References for papers that I've read so that I can easily find them again. Not e
 **2019**, Ab-Initio Solution of the Many-Electron Schrödinger Equation with Deep Neural Networks [[paper](https://arxiv.org/abs/1909.02487)]
 * David Pfau, James S. Spencer, Alexander G. de G. Matthews, W. M. C. Foulkes, arXiv:1909.02487 [physics.chem-ph]
 
+**2020**, Review and Prospect: Deep Learning in Nuclear Magnetic Resonance Spectroscopy [[paper](https://arxiv.org/abs/2001.04813)]
+* Dicheng Chen, Zi Wang, Di Guo, Vladislav Orekhov, Xiaobo Qu, arXiv:2001.04813 [physics.med-ph]
+
 # Non-technical
 **2020**, The Next Decade in AI: Four Steps Towards Robust Artificial Intelligence, [[paper](https://arxiv.org/abs/2002.06177)]
 * Gary Marcus, 	arXiv:2002.06177 [cs.AI]
