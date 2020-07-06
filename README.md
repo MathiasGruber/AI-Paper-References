@@ -62,6 +62,9 @@ References for papers that I've read so that I can easily find them again. Not e
 * Paul Covington, Jay Adams, Emre Sargin, Proceedings of the 10th ACM Conference on Recommender Systems, ACM, New York, NY, USA
 
 # Probabilistic Models
+**2020**, ConBO: Conditional Bayesian Optimization [[paper](https://arxiv.org/abs/2002.09996)]
+* Michael Pearce, Janis Klaise, Matthew Groves, 	arXiv:2002.09996 [stat.ML]
+
 **2019**, Learning Hierarchical Priors in VAEs, [[paper](https://arxiv.org/abs/1905.04982)]
 * Alexej Klushyn, Nutan Chen, Richard Kurle, Botond Cseke, Patrick van der Smagt, rXiv:1905.04982 [stat.ML]
 
