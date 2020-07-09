@@ -108,6 +108,9 @@ References for papers that I've read so that I can easily find them again. Not e
 * Xun Huang, Serge Belongie, arXiv:1703.06868 [cs.CV]
 
 # Image Classification / Object Detection
+**2020**, Dense Steerable Filter CNNs for Exploiting Rotational Symmetry in Histology Images, [[paper](https://arxiv.org/abs/2004.03037)] [[code](https://github.com/simongraham/dsf-cnn)]
+* Simon Graham, David Epstein, Nasir Rajpoot, arXiv:2004.03037 [eess.IV]
+
 **2019**, Improving Uncertainty Estimation in Convolutional Neural Networks Using Inter-rater Agreement, [[paper](https://link.springer.com/chapter/10.1007/978-3-030-32251-9_59)]
 * Martin Holm Jensen, Dan Richter Jørgensen, Raluca Jalaboi, Mads Eiler Hansen, Martin Aastrup Olsen, MICCAI 2019. MICCAI 2019. Lecture Notes in Computer Science, vol 11767. Springer, Cham
 
