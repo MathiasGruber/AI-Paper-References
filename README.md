@@ -260,6 +260,9 @@ References for papers that I've read so that I can easily find them again. Not e
 * Meike Nauta,Doina Bucur and Christin Seifert, Mach. Learn. Knowl. Extr. 2019, 1(1), 312-340
 
 # Clinical Trials
+**2019**, Estimating Site Performance (ESP): can trial managers predict recruitment success at trial sites? An exploratory study, [[paper](https://trialsjournal.biomedcentral.com/articles/10.1186/s13063-019-3287-6)]
+* Hanne Bruhn, Shaun Treweek, Anne Duncan, Kirsty Shearer, Sarah Cameron, Karen Campbell, Karen Innes, Dawn McRae & Seonaidh C. Cotton, Trials volume 20, Article number: 192 (2019)
+
 **2018**, Quantifying and visualizing site performance in clinical trials, [[paper](https://www.sciencedirect.com/science/article/pii/S2451865417301825)]
 * Eric Yang, Christopher O'Donovan, JodiLyn Phillips, Leone Atkinson, Krishnendu Ghosh, Dimitris K.Agrafiotis, Contemporary Clinical Trials Communications
 Volume 9, March 2018, Pages 108-114
