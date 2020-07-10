@@ -259,6 +259,11 @@ References for papers that I've read so that I can easily find them again. Not e
 **2018**, Causal Discovery with Attention-Based Convolutional Neural Networks, [[paper](https://www.mdpi.com/2504-4990/1/1/19)]
 * Meike Nauta,Doina Bucur and Christin Seifert, Mach. Learn. Knowl. Extr. 2019, 1(1), 312-340
 
+# Clinical Trials
+**2018**, Quantifying and visualizing site performance in clinical trials, [[paper](https://www.sciencedirect.com/science/article/pii/S2451865417301825)]
+* Eric Yang, Christopher O'Donovan, JodiLyn Phillips, Leone Atkinson, Krishnendu Ghosh, Dimitris K.Agrafiotis, Contemporary Clinical Trials Communications
+Volume 9, March 2018, Pages 108-114
+
 # Reinforcement Learning
 **2020**, CURL: Contrastive Unsupervised Representations for Reinforcement Learning, [[paper](https://arxiv.org/abs/2004.04136)] [[code](https://github.com/MishaLaskin/curl)]
 * Aravind Srinivas, Michael Laskin, Pieter Abbeel, arXiv:2004.04136 [cs.LG]
