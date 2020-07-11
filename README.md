@@ -271,6 +271,9 @@ Volume 9, March 2018, Pages 108-114
 * Rutger M.van den Borab, Diederick E.Grobbeeab, Bas J.Oostermana, Petrus W.J.Vaessena, Kit C.B.Roesb, Contemporary Clinical Trials Communications
 Volume 7, September 2017, Pages 208-216
 
+**2011**, Performance-Based Site Selection Reduces Costs and Shortens Enrollment Time [[paper](https://www.phesi.com/wp-content/uploads/2020/02/Gen-The-Monitor-2011.pdf)]
+* Gen Li, PhD, MBA | Robert Gray, MBA
+
 # Reinforcement Learning
 **2020**, CURL: Contrastive Unsupervised Representations for Reinforcement Learning, [[paper](https://arxiv.org/abs/2004.04136)] [[code](https://github.com/MishaLaskin/curl)]
 * Aravind Srinivas, Michael Laskin, Pieter Abbeel, arXiv:2004.04136 [cs.LG]
