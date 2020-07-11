@@ -260,6 +260,9 @@ References for papers that I've read so that I can easily find them again. Not e
 * Meike Nauta,Doina Bucur and Christin Seifert, Mach. Learn. Knowl. Extr. 2019, 1(1), 312-340
 
 # Clinical Trials
+**2019**, Artificial Intelligence for Clinical Trial Design, [[paper](https://www.sciencedirect.com/science/article/pii/S0165614719301300)]
+* Herrer et al., Trends in Pharmacological Sciences, Volume 40, Issue 8, August 2019, Pages 577-591
+
 **2019**, Estimating Site Performance (ESP): can trial managers predict recruitment success at trial sites? An exploratory study, [[paper](https://trialsjournal.biomedcentral.com/articles/10.1186/s13063-019-3287-6)]
 * Hanne Bruhn, Shaun Treweek, Anne Duncan, Kirsty Shearer, Sarah Cameron, Karen Campbell, Karen Innes, Dawn McRae & Seonaidh C. Cotton, Trials volume 20, Article number: 192 (2019)
 
