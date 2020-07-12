@@ -260,6 +260,9 @@ References for papers that I've read so that I can easily find them again. Not e
 * Meike Nauta,Doina Bucur and Christin Seifert, Mach. Learn. Knowl. Extr. 2019, 1(1), 312-340
 
 # Clinical Trials
+**2019**, Machine Learning with Statistical Imputation for Predicting Drug Approvals [[paper](https://hdsr.mitpress.mit.edu/pub/ct67j043/release/9)]
+* Andrew W. Lo, Kien Wei Siah, and Chi Heem Wong, Machine Learning with Statistical Imputation for Predicting Drug Approvals. Harvard Data Science Review, 1(1)
+
 **2019**, Artificial Intelligence for Clinical Trial Design, [[paper](https://www.sciencedirect.com/science/article/pii/S0165614719301300)]
 * Herrer et al., Trends in Pharmacological Sciences, Volume 40, Issue 8, August 2019, Pages 577-591
 
