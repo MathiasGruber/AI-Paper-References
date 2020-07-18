@@ -246,6 +246,9 @@ References for papers that I've read so that I can easily find them again. Not e
 * Dicheng Chen, Zi Wang, Di Guo, Vladislav Orekhov, Xiaobo Qu, arXiv:2001.04813 [physics.med-ph]
 
 # Non-technical
+**2020**, The upside of being a digital pharma player, [[paper](https://www.sciencedirect.com/science/article/pii/S1359644620302270)]
+* Alexander Schuhmacher, Alexander Gatto, Markus Hinder, Michael Kuss, Oliver Gassmann
+
 **2020**, The Next Decade in AI: Four Steps Towards Robust Artificial Intelligence, [[paper](https://arxiv.org/abs/2002.06177)]
 * Gary Marcus, 	arXiv:2002.06177 [cs.AI]
 
