@@ -132,6 +132,9 @@ References for papers that I've read so that I can easily find them again. Not e
 * Voelker, Aaron and Kaji, Ivana and Eliasmith, Chris
 
 # Natural Language Processing
+**2020**, Contextual Embeddings: When Are They Worth It? [[paper](https://arxiv.org/abs/2005.09117)]
+* Simran Arora, Avner May, Jian Zhang, Christopher Ré, 	arXiv:2005.09117 [cs.CL]
+
 **2020**, Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer, [[paper](https://arxiv.org/abs/1910.10683)]
 * Colin Raffel, Noam Shazeer, Adam Roberts, Katherine Lee, Sharan Narang, Michael Matena, Yanqi Zhou, Wei Li, Peter J. Liu, 	arXiv:1910.10683 [cs.LG]
 
