@@ -177,6 +177,9 @@ References for papers that I've read so that I can easily find them again. Not e
 * Anastasia Borovykh, Sander Bohte, Cornelis W. Oosterlee, arXiv:1703.04691 [stat.ML]
 
 # Drug Design
+**2020**, Domain Extrapolation via Regret Minimization [[paper](https://arxiv.org/abs/2006.03908)]
+* Wengong Jin, Regina Barzilay, Tommi Jaakkola, arXiv:2006.03908 [cs.LG]
+
 **2019**, Efficient multi-objective molecular optimization in a continuous latent space, [[paper](https://pubs.rsc.org/en/content/articlelanding/2019/sc/c9sc01928f#!divAbstract)] [[code](https://github.com/jrwnter/mso)]
 * Robin Winter, Floriane Montanari, OAndreas Steffen, Hans Briem, Frank Noé and  Djork-Arné Clevert, 
 
