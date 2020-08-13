@@ -217,6 +217,9 @@ References for papers that I've read so that I can easily find them again. Not e
 * Justin Gilmer, Samuel S. Schoenholz, Patrick F. Riley, Oriol Vinyals, George E. Dahl, arXiv:1704.01212 [cs.LG]
 
 # Interpretation / Explainability
+**2020**, Clinically applicable deep learning for diagnosis and referral in retinal disease, [[paper](https://www.nature.com/articles/s41591-018-0107-6)]
+* Jeffrey De Fauw, Joseph R. Ledsam, Olaf Ronneberger, Nature Medicine volume 24, pages1342–1350(2018)
+
 **2019**, GNNExplainer: Generating Explanations for Graph Neural Networks [[paper](https://arxiv.org/abs/1903.03894)] [[code](https://github.com/RexYing/gnn-model-explainer)]
 * Rex Ying, Dylan Bourgeois, Jiaxuan You, Marinka Zitnik, Jure Leskovec, 	arXiv:1903.03894 [cs.LG]
 
