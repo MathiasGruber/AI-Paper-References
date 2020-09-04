@@ -108,6 +108,9 @@ References for papers that I've read so that I can easily find them again. Not e
 * Xun Huang, Serge Belongie, arXiv:1703.06868 [cs.CV]
 
 # Image Classification / Object Detection
+**2020**, Label-free Quantification of Pharmacokinetics in Skin with Stimulated Raman Scattering Microscopy and Deep Learning [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0022202X20318844)]
+Amin Feizpour, Troels Marstrand, Louise Bastholm, Stefan Eirefelt, Conor L.Evans
+
 **2020**, Dense Steerable Filter CNNs for Exploiting Rotational Symmetry in Histology Images, [[paper](https://arxiv.org/abs/2004.03037)] [[code](https://github.com/simongraham/dsf-cnn)]
 * Simon Graham, David Epstein, Nasir Rajpoot, arXiv:2004.03037 [eess.IV]
 
