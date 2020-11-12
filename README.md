@@ -2,6 +2,9 @@
 References for papers that I've read so that I can easily find them again. Not exhaustive, but trying to keep it up to date.
 
 # Foundational
+**2020**, Shapley Flow: A Graph-based Approach to Interpreting Model Predictions, [[paper](https://arxiv.org/abs/2010.14592)]
+* Jiaxuan Wang, Jenna Wiens, Scott Lundberg, arXiv:2010.14592 [cs.LG]
+
 **2020**, When Does Preconditioning Help or Hurt Generalization?, [[paper](https://arxiv.org/abs/2006.10732)]
 * Shun-ichi Amari, Jimmy Ba, Roger Grosse, Xuechen Li, Atsushi Nitanda, Taiji Suzuki, Denny Wu, Ji Xu, 	arXiv:2006.10732 [stat.ML]
 
