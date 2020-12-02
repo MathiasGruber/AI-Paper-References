@@ -313,3 +313,6 @@ Volume 7, September 2017, Pages 208-216
 # Reinforcement Learning
 **2020**, CURL: Contrastive Unsupervised Representations for Reinforcement Learning, [[paper](https://arxiv.org/abs/2004.04136)] [[code](https://github.com/MishaLaskin/curl)]
 * Aravind Srinivas, Michael Laskin, Pieter Abbeel, arXiv:2004.04136 [cs.LG]
+
+**1998**, Reinforcement Learning for Trading, [[paper](https://papers.nips.cc/paper/1998/file/4e6cd95227cb0c280e99a195be5f6615-Paper.pdf)]
+John Moody and Matthew Saffell, Advances in Neural Information Processing Systems 11 (NIPS 1998)
