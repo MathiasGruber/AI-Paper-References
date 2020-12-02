@@ -169,6 +169,9 @@ Amin Feizpour, Troels Marstrand, Louise Bastholm, Stefan Eirefelt, Conor L.Evans
 * Piotr Bojanowski, Edouard Grave, Armand Joulin, Tomas Mikolov, 	arXiv:1607.04606 [cs.CL]
 
 # Biological Representation Learning
+**2019**, Improved protein structure prediction using potentials from deep learning, [[paper](https://www.nature.com/articles/s41586-019-1923-7)]
+* Andrew W. Senior et al., Nature volume 577, pages706–710(2020)
+
 **2019**, Probabilistic variable-length segmentation of protein sequences for discriminative motif discovery (DiMotif) and sequence embedding (ProtVecX) [[paper](https://www.nature.com/articles/s41598-019-38746-w)]
 * Ehsaneddin Asgari, Alice C. McHardy & Mohammad R. K. Mofrad, Scientific Reportsvolume 9, Article number: 3577 (2019)
 
