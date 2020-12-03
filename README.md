@@ -2,6 +2,9 @@
 References for papers that I've read so that I can easily find them again. Not exhaustive, but trying to keep it up to date.
 
 # Foundational
+**2020**, fastai: A Layered API for Deep Learning, [[paper](https://arxiv.org/abs/2002.04688)] [[code](https://github.com/fastai/fastai)]
+* Jeremy Howard, Sylvain Gugger, 	arXiv:2002.04688 [cs.LG]
+
 **2020**, Shapley Flow: A Graph-based Approach to Interpreting Model Predictions, [[paper](https://arxiv.org/abs/2010.14592)]
 * Jiaxuan Wang, Jenna Wiens, Scott Lundberg, arXiv:2010.14592 [cs.LG]
 
