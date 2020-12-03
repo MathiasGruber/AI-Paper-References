@@ -283,6 +283,9 @@ John Jumper et al., Fourteenth Critical Assessment of Techniques for Protein Str
 * Aristodemou, L. and Tietze, F.
 
 # Causality
+**2020**, Algorithms for Causal Reasoning in Probability Trees, [[paper](https://arxiv.org/abs/2010.12237)] [[colab](https://colab.research.google.com/github/deepmind/deepmind_research/blob/master/causal_reasoning/Causal_Reasoning_in_Probability_Trees.ipynb#scrollTo=ZB-JZdum16ZJ)]
+* Tim Genewein, Tom McGrath, Grégoire Déletang, Vladimir Mikulik, Miljan Martic, Shane Legg, Pedro A. Ortega, arXiv:2010.12237 [cs.AI]
+
 **2018**, Causal Discovery with Attention-Based Convolutional Neural Networks, [[paper](https://www.mdpi.com/2504-4990/1/1/19)]
 * Meike Nauta,Doina Bucur and Christin Seifert, Mach. Learn. Knowl. Extr. 2019, 1(1), 312-340
 
