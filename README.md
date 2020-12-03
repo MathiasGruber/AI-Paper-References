@@ -114,6 +114,9 @@ References for papers that I've read so that I can easily find them again. Not e
 **2021**, An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale, [[paper](https://openreview.net/forum?id=YicbFdNTTy)]
 * Anonymous
 
+**2020**, EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks, [[paper](https://arxiv.org/abs/1905.11946)]
+* Mingxing Tan, Quoc V. Le, arXiv:1905.11946 [cs.LG]
+
 **2020**, Label-free Quantification of Pharmacokinetics in Skin with Stimulated Raman Scattering Microscopy and Deep Learning [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0022202X20318844)]
 Amin Feizpour, Troels Marstrand, Louise Bastholm, Stefan Eirefelt, Conor L.Evans
 
