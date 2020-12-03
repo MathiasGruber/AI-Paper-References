@@ -314,6 +314,9 @@ Volume 7, September 2017, Pages 208-216
 * Gen Li, PhD, MBA | Robert Gray, MBA
 
 # Reinforcement Learning
+**2020**, Deep Reinforcement Learning for Automated Stock Trading: An Ensemble Strategy, [[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3690996)] [[code](https://github.com/AI4Finance-LLC/Deep-Reinforcement-Learning-for-Automated-Stock-Trading-Ensemble-Strategy-ICAIF-2020)] [[medium](https://towardsdatascience.com/deep-reinforcement-learning-for-automated-stock-trading-f1dad0126a02)]
+* Hongyang Yang et al. ICAIF-2020
+
 **2020**, CURL: Contrastive Unsupervised Representations for Reinforcement Learning, [[paper](https://arxiv.org/abs/2004.04136)] [[code](https://github.com/MishaLaskin/curl)]
 * Aravind Srinivas, Michael Laskin, Pieter Abbeel, arXiv:2004.04136 [cs.LG]
 
