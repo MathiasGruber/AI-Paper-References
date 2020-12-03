@@ -238,6 +238,9 @@ John Jumper et al., Fourteenth Critical Assessment of Techniques for Protein Str
 * Justin Gilmer, Samuel S. Schoenholz, Patrick F. Riley, Oriol Vinyals, George E. Dahl, arXiv:1704.01212 [cs.LG]
 
 # Interpretation / Explainability
+**TabNet**, TabNet: Attentive Interpretable Tabular Learning, [[paper](https://arxiv.org/abs/1908.07442)]
+* Sercan O. Arik, Tomas Pfister, arXiv:1908.07442 [cs.LG]
+
 **2020**, Clinically applicable deep learning for diagnosis and referral in retinal disease, [[paper](https://www.nature.com/articles/s41591-018-0107-6)]
 * Jeffrey De Fauw, Joseph R. Ledsam, Olaf Ronneberger, Nature Medicine volume 24, pages1342–1350(2018)
 
