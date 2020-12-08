@@ -198,6 +198,9 @@ John Jumper et al., Fourteenth Critical Assessment of Techniques for Protein Str
 * Anastasia Borovykh, Sander Bohte, Cornelis W. Oosterlee, arXiv:1703.04691 [stat.ML]
 
 # Drug Design
+**2020**, Molecular representation learning with language models and domain-relevant auxiliary tasks
+* Benedek Fabian, Thomas Edlich, Héléna Gaspar, Marwin Segler, Joshua Meyers, Marco Fiscato, Mohamed Ahmed, arXiv:2011.13230 [cs.LG]
+
 **2020**, Domain Extrapolation via Regret Minimization [[paper](https://arxiv.org/abs/2006.03908)]
 * Wengong Jin, Regina Barzilay, Tommi Jaakkola, arXiv:2006.03908 [cs.LG]
 
