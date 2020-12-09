@@ -201,6 +201,9 @@ John Jumper et al., Fourteenth Critical Assessment of Techniques for Protein Str
 * Anastasia Borovykh, Sander Bohte, Cornelis W. Oosterlee, arXiv:1703.04691 [stat.ML]
 
 # Drug Design
+**2020**, Principal Neighbourhood Aggregation for Graph Nets, [[paper](https://arxiv.org/abs/2004.05718)] [[code](https://github.com/lukecavabarrett/pna)]
+* Gabriele Corso, Luca Cavalleri, Dominique Beaini, Pietro Liò, Petar Veličković, arXiv:2004.05718 [cs.LG]
+
 **2020**, Towards Interpretable Sparse Graph Representation Learning with Laplacian Pooling, [[paper](https://arxiv.org/abs/1905.11577)] [[code](https://github.com/jdavid04/lapool)]
 * Emmanuel Noutahi, Dominique Beaini, Julien Horwood, Sébastien Giguère, Prudencio Tossou, arXiv:1905.11577 [cs.LG]
 
