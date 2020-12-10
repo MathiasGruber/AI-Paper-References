@@ -204,6 +204,9 @@ John Jumper et al., Fourteenth Critical Assessment of Techniques for Protein Str
 * Anastasia Borovykh, Sander Bohte, Cornelis W. Oosterlee, arXiv:1703.04691 [stat.ML]
 
 # Drug Design
+**2020**, Molecular Design in Synthetically Accessible Chemical Space via Deep Reinforcement Learning [[paper](https://arxiv.org/abs/2004.14308)]
+* Julien Horwood, Emmanuel Noutahi, arXiv:2004.14308 [physics.chem-ph]
+
 **2020**, Principal Neighbourhood Aggregation for Graph Nets, [[paper](https://arxiv.org/abs/2004.05718)] [[code](https://github.com/lukecavabarrett/pna)]
 * Gabriele Corso, Luca Cavalleri, Dominique Beaini, Pietro Liò, Petar Veličković, arXiv:2004.05718 [cs.LG]
 
