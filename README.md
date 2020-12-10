@@ -178,6 +178,9 @@ Amin Feizpour, Troels Marstrand, Louise Bastholm, Stefan Eirefelt, Conor L.Evans
 * Piotr Bojanowski, Edouard Grave, Armand Joulin, Tomas Mikolov, 	arXiv:1607.04606 [cs.CL]
 
 # Biological Representation Learning
+**2020**, Geodesics in fibered latent spaces: A geometric approach to learning correspondences between conditions, [[paper](https://arxiv.org/abs/2005.07852)]
+* Tariq Daouda, Reda Chhaibi, Prudencio Tossou, Alexandra-Chloé Villani, 	arXiv:2005.07852 [stat.ML]
+
 **2020**, High Accuracy Protein Structure Prediction Using Deep Learning [[paper](https://predictioncenter.org/casp14/doc/CASP14_Abstracts.pdf)] [[announcement](https://deepmind.com/blog/article/alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology)]
 John Jumper et al., Fourteenth Critical Assessment of Techniques for Protein Structure Prediction
 
