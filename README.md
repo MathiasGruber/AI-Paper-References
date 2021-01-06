@@ -207,6 +207,9 @@ John Jumper et al., Fourteenth Critical Assessment of Techniques for Protein Str
 * Anastasia Borovykh, Sander Bohte, Cornelis W. Oosterlee, arXiv:1703.04691 [stat.ML]
 
 # Drug Design
+**2020**, TrimNet: learning molecular representation from triplet messages for biomedicine [[paper](https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbaa266/5955940?redirectedFrom=fulltext)]
+* Pengyong Li, Yuquan Li, Chang-Yu Hsieh, Shengyu Zhang, Xianggen Liu, Huanxiang Liu, Sen Song, Xiaojun Yao,  https://doi.org/10.1093/bib/bbaa266
+
 **2020**, Molecular Design in Synthetically Accessible Chemical Space via Deep Reinforcement Learning [[paper](https://arxiv.org/abs/2004.14308)]
 * Julien Horwood, Emmanuel Noutahi, arXiv:2004.14308 [physics.chem-ph]
 
