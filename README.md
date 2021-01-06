@@ -104,6 +104,9 @@ References for papers that I've read so that I can easily find them again. Not e
 * Mario Lucic, Michael Tschannen, Marvin Ritter, Xiaohua Zhai, Olivier Bachem, Sylvain Gelly
 
 # Style Transfer
+**2021**, DALL·E: Creating Images from Text, [[article](https://openai.com/blog/dall-e/#summary)]
+* OpenAI
+
 **2019**, TraVeLGAN: Image-to-image Translation by Transformation Vector Learning [[paper](https://arxiv.org/abs/1902.09631)]
 * Matthew Amodio, Smita Krishnaswamy, arXiv:1902.09631 [cs.CV]
 
