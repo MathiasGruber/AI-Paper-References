@@ -159,6 +159,9 @@ Amin Feizpour, Troels Marstrand, Louise Bastholm, Stefan Eirefelt, Conor L.Evans
 **2020**, Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer, [[paper](https://arxiv.org/abs/1910.10683)]
 * Colin Raffel, Noam Shazeer, Adam Roberts, Katherine Lee, Sharan Narang, Michael Matena, Yanqi Zhou, Wei Li, Peter J. Liu, 	arXiv:1910.10683 [cs.LG]
 
+**2019**, Unsupervised word embeddings capture latent knowledge from materials science literature, [[paper](https://www.nature.com/articles/s41586-019-1335-8)]
+* Vahe Tshitoyan, John Dagdelen, Leigh Weston, Alexander Dunn, Ziqin Rong, Olga Kononova, Kristin A. Persson, Gerbrand Ceder & Anubhav Jain , Nature volume 571, pages95–98(2019)
+
 **2019**, BioBERT: a pre-trained biomedical language representation model for biomedical text mining, 
 * Jinhyuk Lee, Wonjin Yoon, Sungdong Kim, Donghyeon Kim, Sunkyu Kim, Chan Ho So, Jaewoo Kang, arXiv:1901.08746 [cs.CL]
 
