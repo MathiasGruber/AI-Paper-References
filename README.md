@@ -228,6 +228,9 @@ John Jumper et al., Fourteenth Critical Assessment of Techniques for Protein Str
 **2020**, Domain Extrapolation via Regret Minimization [[paper](https://arxiv.org/abs/2006.03908)]
 * Wengong Jin, Regina Barzilay, Tommi Jaakkola, arXiv:2006.03908 [cs.LG]
 
+**2019**, Modeling Physico-Chemical ADMET Endpoints with Multitask Graph Convolutional Networks, [[paper](https://pubmed.ncbi.nlm.nih.gov/31877719/)]
+* Floriane Montanari, Lara Kuhnke, Antonius Ter Laak, Djork-Arné Clevert, Molecules. 2019 Dec 21;25(1):44. doi: 10.3390/molecules25010044.
+
 **2019**, Adaptive Deep Kernel Learning, [[paper](https://arxiv.org/abs/1905.12131)]
 * Prudencio Tossou, Basile Dura, Francois Laviolette, Mario Marchand, Alexandre Lacoste, arXiv:1905.12131 [cs.LG]
 
