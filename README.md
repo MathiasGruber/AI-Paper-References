@@ -370,3 +370,7 @@ Volume 7, September 2017, Pages 208-216
 
 **1998**, Reinforcement Learning for Trading, [[paper](https://papers.nips.cc/paper/1998/file/4e6cd95227cb0c280e99a195be5f6615-Paper.pdf)]
 John Moody and Matthew Saffell, Advances in Neural Information Processing Systems 11 (NIPS 1998)
+
+# Evolutionary Psycology
+**2020**, The Policy Relevance of Personality Traits, [[paper](https://psyarxiv.com/a9rbn/)]
+Wiebke BleidornPatrick HillMitja BackJaap DenissenMarie HenneckeChris HopwoodMarkus JokelaChristian KandlerRichard E. LucasMaike LuhmannUlrich OrthJenny WagnerCornelia WrzusJohannes ZimmermannBrent Roberts, Inpress: American Psychologist
