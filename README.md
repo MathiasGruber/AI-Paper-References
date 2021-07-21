@@ -2,6 +2,9 @@
 References for papers that I've read so that I can easily find them again. Not exhaustive, but trying to keep it up to date.
 
 # Foundational
+**2020**, Knowledge-primed neural networks enable biologically interpretable deep learning on single-cell sequencing data [[paper](https://genomebiology.biomedcentral.com/track/pdf/10.1186/s13059-020-02100-5.pdf)]
+* Nikolaus Fortelny and Christoph Bock, Genome Biology (2020) 21:190 
+
 **2020**, Supervised Contrastive Learning, [[paper](https://arxiv.org/abs/2004.11362)]
 * Prannay Khosla, Piotr Teterwak, Chen Wang, Aaron Sarna, Yonglong Tian, Phillip Isola, Aaron Maschinot, Ce Liu, Dilip Krishnan, 	arXiv:2004.11362 [cs.LG]
 
