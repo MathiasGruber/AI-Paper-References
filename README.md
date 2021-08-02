@@ -102,13 +102,26 @@ References for papers that I've read so that I can easily find them again. Not e
 **2019**, MixMatch: A Holistic Approach to Semi-Supervised Learning, [[paper](https://arxiv.org/abs/1905.02249)]
 * David Berthelot, Nicholas Carlini, Ian Goodfellow, Nicolas Papernot, Avital Oliver, Colin Raffel, arXiv:1905.02249 [cs.LG]
 
-# Image Genneration
+# Image Generation
 **2019**, High-Fidelity Image Generation With Fewer Labels, [[paper](https://arxiv.org/abs/1903.02271v1)] [[code](https://github.com/google/compare_gan)]
 * Mario Lucic, Michael Tschannen, Marvin Ritter, Xiaohua Zhai, Olivier Bachem, Sylvain Gelly
+
+# Image Inpainting
+**2021**, Large Scale Image Completion via Co-Modulated Generative Adversarial Networks, [[paper](https://arxiv.org/abs/2103.10428)] [[code](https://github.com/zsyzzsoft/co-mod-gan)]
+* Shengyu Zhao, Jonathan Cui, Yilun Sheng, Yue Dong, Xiao Liang, Eric I Chang, Yan Xu, 	arXiv:2103.10428 [cs.CV]
+
+**2019**, Free-Form Image Inpainting with Gated Convolution, [[paper](https://arxiv.org/abs/1806.03589)]
+* Jiahui Yu, Zhe Lin, Jimei Yang, Xiaohui Shen, Xin Lu, Thomas Huang, arXiv:1806.03589 [cs.CV]
+
+**2018**, Image Inpainting for Irregular Holes Using Partial Convolutions, [[paper](https://arxiv.org/abs/1804.07723)] [[code](https://github.com/NVIDIA/partialconv)]
+* Guilin Liu, Fitsum A. Reda, Kevin J. Shih, Ting-Chun Wang, Andrew Tao, Bryan Catanzaro, arXiv:1804.07723 [cs.CV]
 
 # Style Transfer
 **2021**, DALL·E: Creating Images from Text, [[article](https://openai.com/blog/dall-e/#summary)]
 * OpenAI
+
+**2020**, Analyzing and Improving the Image Quality of StyleGAN, [[paper](https://arxiv.org/abs/1912.04958)]
+* Tero Karras, Samuli Laine, Miika Aittala, Janne Hellsten, Jaakko Lehtinen, Timo Aila, arXiv:1912.04958 [cs.CV]
 
 **2019**, TraVeLGAN: Image-to-image Translation by Transformation Vector Learning [[paper](https://arxiv.org/abs/1902.09631)]
 * Matthew Amodio, Smita Krishnaswamy, arXiv:1902.09631 [cs.CV]
