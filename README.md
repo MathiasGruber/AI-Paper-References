@@ -114,7 +114,7 @@ References for papers that I've read so that I can easily find them again. Not e
 * Jiahui Yu, Zhe Lin, Jimei Yang, Xiaohui Shen, Xin Lu, Thomas Huang, arXiv:1806.03589 [cs.CV]
 
 **2018**, Image Inpainting for Irregular Holes Using Partial Convolutions, [[paper](https://arxiv.org/abs/1804.07723)] [[code](https://github.com/NVIDIA/partialconv)]
-* Guilin Liu, Fitsum A. Reda, Kevin J. Shih, Ting-Chun Wang, Andrew Tao, Bryan Catanzaro, arXiv:1804.07723 [cs.CV]
+* Guilin Liu, et al, arXiv:1804.07723 [cs.CV]
 
 # Style Transfer
 **2021**, DALL·E: Creating Images from Text, [[article](https://openai.com/blog/dall-e/#summary)]
