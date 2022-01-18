@@ -331,14 +331,19 @@ John Jumper et al., Fourteenth Critical Assessment of Techniques for Protein Str
 * Dicheng Chen, Zi Wang, Di Guo, Vladislav Orekhov, Xiaobo Qu, arXiv:2001.04813 [physics.med-ph]
 
 # Molecular Docking
+
+**2021**, Accelerating high-throughput virtual screening through molecular pool-based active learning [[paper](https://pubs.rsc.org/en/content/articlelanding/2021/sc/d0sc06805e)]
+* David E. Graff
+
+**2021**, Automated discovery of noncovalent inhibitors of SARS-CoV-2 main protease by consensus Deep Docking of 40 billion small molecules [[paper](https://pubs.rsc.org/en/content/articlelanding/2021/sc/d1sc05579h
+* Francesco Gentile et al.
+
 **2020**, Deep Docking: A Deep Learning Platform for Augmentation of Structure Based Drug Discovery [[paper](https://pubs.acs.org/doi/10.1021/acscentsci.0c00229)]
 * Francesco Gentile, Vibudh Agrawal, Michael Hsing, Anh-Tien Ton, Fuqiang Ban, Ulf Norinder, Martin E. Gleave, and Artem Cherkasov
 
 **2020**, An open-source drug discovery platform enables ultra-large virtual screens [[paper](https://www.nature.com/articles/s41586-020-2117-z)]
 * Christoph Gorgulla et al.
 
-**2021**, Automated discovery of noncovalent inhibitors of SARS-CoV-2 main protease by consensus Deep Docking of 40 billion small molecules [[paper](https://pubs.rsc.org/en/content/articlelanding/2021/sc/d1sc05579h)]
-* Francesco Gentile et al.
 
 # Non-technical
 **2020**, The upside of being a digital pharma player, [[paper](https://www.sciencedirect.com/science/article/pii/S1359644620302270)]
