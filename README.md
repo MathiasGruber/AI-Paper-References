@@ -330,6 +330,10 @@ John Jumper et al., Fourteenth Critical Assessment of Techniques for Protein Str
 **2020**, Review and Prospect: Deep Learning in Nuclear Magnetic Resonance Spectroscopy [[paper](https://arxiv.org/abs/2001.04813)]
 * Dicheng Chen, Zi Wang, Di Guo, Vladislav Orekhov, Xiaobo Qu, arXiv:2001.04813 [physics.med-ph]
 
+# Molecular Docking
+**2020**, Deep Docking: A Deep Learning Platform for Augmentation of Structure Based Drug Discovery [[paper](https://pubs.acs.org/doi/10.1021/acscentsci.0c00229)]
+* Francesco Gentile, Vibudh Agrawal, Michael Hsing, Anh-Tien Ton, Fuqiang Ban, Ulf Norinder, Martin E. Gleave, and Artem Cherkasov
+
 # Non-technical
 **2020**, The upside of being a digital pharma player, [[paper](https://www.sciencedirect.com/science/article/pii/S1359644620302270)]
 * Alexander Schuhmacher, Alexander Gatto, Markus Hinder, Michael Kuss, Oliver Gassmann
