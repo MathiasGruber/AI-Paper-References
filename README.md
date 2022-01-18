@@ -337,6 +337,9 @@ John Jumper et al., Fourteenth Critical Assessment of Techniques for Protein Str
 **2020**, An open-source drug discovery platform enables ultra-large virtual screens [[paper](https://www.nature.com/articles/s41586-020-2117-z)]
 * Christoph Gorgulla et al.
 
+**2021**, Automated discovery of noncovalent inhibitors of SARS-CoV-2 main protease by consensus Deep Docking of 40 billion small molecules [[paper](https://pubs.rsc.org/en/content/articlelanding/2021/sc/d1sc05579h)]
+* Francesco Gentile et al.
+
 # Non-technical
 **2020**, The upside of being a digital pharma player, [[paper](https://www.sciencedirect.com/science/article/pii/S1359644620302270)]
 * Alexander Schuhmacher, Alexander Gatto, Markus Hinder, Michael Kuss, Oliver Gassmann
